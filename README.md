@@ -1,6 +1,6 @@
 # House Price Prediction in Bristol Using Geospatial Features
 
-## 📌 Project Overview
+## Project Overview
 
 This project investigates the use of machine learning techniques to predict residential property prices in Bristol using **geospatial features only**.
 
@@ -39,7 +39,7 @@ The project demonstrates that meaningful predictive performance can be achieved 
   * Latitude
   * Longitude
 
-### 🔗 Data Integration
+### Data Integration
 
 Datasets are merged using **postcode** to enrich transaction data with geographic coordinates.
 
